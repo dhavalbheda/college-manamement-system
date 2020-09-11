@@ -1,0 +1,15 @@
+E:\PROJECT20018\AD_CMS\AD_CMS_Entity\bin\Debug\AD_CMS_Entity.dll
+E:\PROJECT20018\AD_CMS\AD_CMS_Entity\bin\Debug\AD_CMS_Entity.pdb
+E:\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\AD_CMS_Entity.dll
+E:\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\AD_CMS_Entity.pdb
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS_Entity\bin\Debug\AD_CMS_Entity.dll
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS_Entity\bin\Debug\AD_CMS_Entity.pdb
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\AD_CMS_Entity.dll
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\AD_CMS_Entity.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS_Entity\bin\Debug\AD_CMS_Entity.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS_Entity\bin\Debug\AD_CMS_Entity.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\AD_CMS_Entity.csproj.CoreCompileInputs.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\AD_CMS_Entity.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS_Entity\obj\Debug\AD_CMS_Entity.pdb

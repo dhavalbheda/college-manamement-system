@@ -1,0 +1,13 @@
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\obj\Debug\AD_CMS_DataModel.Properties.Resources.resources
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\obj\Debug\AD_CMS_DatabaseModel.csproj.GenerateResource.Cache
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\bin\Debug\MasterDatabase.mdf
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\bin\Debug\MasterDatabase_log.ldf
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\bin\Debug\AD_CMS_DataModel.exe
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\bin\Debug\AD_CMS_DataModel.pdb
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\bin\Debug\AD_CMS.exe
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\bin\Debug\CustomControl.dll
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\bin\Debug\AD_CMS.pdb
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\bin\Debug\CustomControl.pdb
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\obj\Debug\AD_CMS_DataModel.exe
+E:\PROJECT20018\AD_CMS\AD_CMS_DataModel\obj\Debug\AD_CMS_DataModel.pdb

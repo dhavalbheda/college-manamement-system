@@ -1,0 +1,687 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1B2A97AE-1389-4F63-BB07-B2AB1FB866AF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AD_CMS</RootNamespace>
+    <AssemblyName>AD_CMS</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CirclePictureBox, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Amana\Desktop\CirclePictureBox\CirclePictureBox\bin\Debug\CirclePictureBox.exe</HintPath>
+    </Reference>
+    <Reference Include="CustomControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\CustomControl\CustomControl\bin\Debug\CustomControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminSection\AdminSectionSubForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSection\AdminSectionSubForms.Designer.cs">
+      <DependentUpon>AdminSectionSubForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSection\SetUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSection\SetUser.designer.cs">
+      <DependentUpon>SetUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSection\SoftwareVisualStyleChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSection\SoftwareVisualStyleChange.Designer.cs">
+      <DependentUpon>SoftwareVisualStyleChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlertBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlertBox.designer.cs">
+      <DependentUpon>AlertBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance\AttendanceSubForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance\AttendanceSubForms.Designer.cs">
+      <DependentUpon>AttendanceSubForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance\GenerateAttendanceSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance\GenerateAttendanceSheet.Designer.cs">
+      <DependentUpon>GenerateAttendanceSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance\Instructions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance\Instructions.Designer.cs">
+      <DependentUpon>Instructions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance\UploadAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance\UploadAttendance.Designer.cs">
+      <DependentUpon>UploadAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance\ViewAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance\ViewAttendance.Designer.cs">
+      <DependentUpon>ViewAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassCall.cs" />
+    <Compile Include="CollegeDetails\CollegeDetailsSubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CollegeDetails\CollegeDetailsSubForm.Designer.cs">
+      <DependentUpon>CollegeDetailsSubForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSection\HomePageDesign.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSection\HomePageDesign.Designer.cs">
+      <DependentUpon>HomePageDesign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Courses\AddNewCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Courses\AddNewCourses.designer.cs">
+      <DependentUpon>AddNewCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Courses\CourseSubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Courses\CourseSubForm.Designer.cs">
+      <DependentUpon>CourseSubForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Courses\UpdateCourseDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Courses\UpdateCourseDetails.designer.cs">
+      <DependentUpon>UpdateCourseDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentSubForms\DepartmentSubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentSubForms\DepartmentSubForm.Designer.cs">
+      <DependentUpon>DepartmentSubForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentSubForms\Set_ModifyDepartmentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentSubForms\Set_ModifyDepartmentDetails.designer.cs">
+      <DependentUpon>Set_ModifyDepartmentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentSubForms\UpdateStudentDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentSubForms\UpdateStudentDepartment.Designer.cs">
+      <DependentUpon>UpdateStudentDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DepartmentSubForms\ViewDepartmentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DepartmentSubForms\ViewDepartmentDetails.Designer.cs">
+      <DependentUpon>ViewDepartmentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\FinanceSubForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\FinanceSubForms.designer.cs">
+      <DependentUpon>FinanceSubForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\PayEmployeeSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\PayEmployeeSalary.designer.cs">
+      <DependentUpon>PayEmployeeSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HomePage\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomePage\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\AddBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\AddBooks.designer.cs">
+      <DependentUpon>AddBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\BorrowBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\BorrowBook.designer.cs">
+      <DependentUpon>BorrowBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\Category.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\Category.designer.cs">
+      <DependentUpon>Category.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\LibraryMgmtSubForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\LibraryMgmtSubForms.designer.cs">
+      <DependentUpon>LibraryMgmtSubForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\LibrarySubForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\LibrarySubForms.designer.cs">
+      <DependentUpon>LibrarySubForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\ReturnBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LibraryMgmtSubForms\ReturnBook.designer.cs">
+      <DependentUpon>ReturnBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogInForm\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForm\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterDatabaseDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MasterDatabaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="StaffMgmtSubForms\EmployeeRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffMgmtSubForms\EmployeeRegistration.designer.cs">
+      <DependentUpon>EmployeeRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffMgmtSubForms\SearchEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffMgmtSubForms\SearchEmployee.designer.cs">
+      <DependentUpon>SearchEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaffMgmtSubForms\Set_ModifyEmpSalary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffMgmtSubForms\Set_ModifyEmpSalary.designer.cs">
+      <DependentUpon>Set_ModifyEmpSalary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\StudentFeeCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\StudentFeeCollection.designer.cs">
+      <DependentUpon>StudentFeeCollection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\ViewEmployeeSalaryDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\ViewEmployeeSalaryDetails.designer.cs">
+      <DependentUpon>ViewEmployeeSalaryDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\ViewStudentPaymentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FinanceDeptSubForms\ViewStudentPaymentDetails.designer.cs">
+      <DependentUpon>ViewStudentPaymentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminSection\AdminSectionSubForms.resx">
+      <DependentUpon>AdminSectionSubForms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSection\SetUser.resx">
+      <DependentUpon>SetUser.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSection\SoftwareVisualStyleChange.resx">
+      <DependentUpon>SoftwareVisualStyleChange.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlertBox.resx">
+      <DependentUpon>AlertBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance\AttendanceSubForms.resx">
+      <DependentUpon>AttendanceSubForms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance\GenerateAttendanceSheet.resx">
+      <DependentUpon>GenerateAttendanceSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance\Instructions.resx">
+      <DependentUpon>Instructions.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance\UploadAttendance.resx">
+      <DependentUpon>UploadAttendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance\ViewAttendance.resx">
+      <DependentUpon>ViewAttendance.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CollegeDetails\CollegeDetailsSubForm.resx">
+      <DependentUpon>CollegeDetailsSubForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSection\HomePageDesign.resx">
+      <DependentUpon>HomePageDesign.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Courses\AddNewCourses.resx">
+      <DependentUpon>AddNewCourses.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Courses\CourseSubForm.resx">
+      <DependentUpon>CourseSubForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Courses\UpdateCourseDetails.resx">
+      <DependentUpon>UpdateCourseDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentSubForms\DepartmentSubForm.resx">
+      <DependentUpon>DepartmentSubForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentSubForms\Set_ModifyDepartmentDetails.resx">
+      <DependentUpon>Set_ModifyDepartmentDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentSubForms\UpdateStudentDepartment.resx">
+      <DependentUpon>UpdateStudentDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DepartmentSubForms\ViewDepartmentDetails.resx">
+      <DependentUpon>ViewDepartmentDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinanceDeptSubForms\FinanceSubForms.resx">
+      <DependentUpon>FinanceSubForms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinanceDeptSubForms\PayEmployeeSalary.resx">
+      <DependentUpon>PayEmployeeSalary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HomePage\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryMgmtSubForms\AddBooks.resx">
+      <DependentUpon>AddBooks.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryMgmtSubForms\BorrowBook.resx">
+      <DependentUpon>BorrowBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryMgmtSubForms\Category.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryMgmtSubForms\LibraryMgmtSubForms.resx">
+      <DependentUpon>LibraryMgmtSubForms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryMgmtSubForms\LibrarySubForms.resx">
+      <DependentUpon>LibrarySubForms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LibraryMgmtSubForms\ReturnBook.resx">
+      <DependentUpon>ReturnBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForm\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffMgmtSubForms\EmployeeRegistration.resx">
+      <DependentUpon>EmployeeRegistration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffMgmtSubForms\SearchEmployee.resx">
+      <DependentUpon>SearchEmployee.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffMgmtSubForms\Set_ModifyEmpSalary.resx">
+      <DependentUpon>Set_ModifyEmpSalary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinanceDeptSubForms\StudentFeeCollection.resx">
+      <DependentUpon>StudentFeeCollection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinanceDeptSubForms\ViewEmployeeSalaryDetails.resx">
+      <DependentUpon>ViewEmployeeSalaryDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinanceDeptSubForms\ViewStudentPaymentDetails.resx">
+      <DependentUpon>ViewStudentPaymentDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaffMgmtSubForms\EmployeeSubForms.resx">
+      <DependentUpon>EmployeeSubForms.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentMgmtSubForms\SearchStudent.resx">
+      <DependentUpon>SearchStudent.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentMgmtSubForms\StudentAdmission.resx">
+      <DependentUpon>StudentAdmission.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentMgmtSubForms\StudentSubForm.resx">
+      <DependentUpon>StudentSubForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TemplateForm.resx">
+      <DependentUpon>TemplateForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>PublicSettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="StaffMgmtSubForms\EmployeeSubForms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffMgmtSubForms\EmployeeSubForms.designer.cs">
+      <DependentUpon>EmployeeSubForms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentMgmtSubForms\SearchStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentMgmtSubForms\SearchStudent.designer.cs">
+      <DependentUpon>SearchStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentMgmtSubForms\StudentAdmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentMgmtSubForms\StudentAdmission.designer.cs">
+      <DependentUpon>StudentAdmission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentMgmtSubForms\StudentSubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentMgmtSubForms\StudentSubForm.designer.cs">
+      <DependentUpon>StudentSubForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TemplateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TemplateForm.Designer.cs">
+      <DependentUpon>TemplateForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StudentRegistration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update Student Detail.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employee Registration.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update Employee Details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employee Profile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Student Profile1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add_Course.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Upadate Course.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Department.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PromoteStudent.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pay Employee Salary.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Update Salary Details.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Student Payment Details.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\View Employee Salary Details.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Set_Modify_Department %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Student Fee Collection %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DefaultPhoto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\success.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home2_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="MasterDatabaseDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MasterDatabaseDataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\User.png" />
+    <None Include="Resources\ColorChange.png" />
+    <None Include="Resources\girl.png" />
+    <None Include="Resources\boy.png" />
+    <None Include="Resources\student.png" />
+    <None Include="Resources\home_page_design.png" />
+    <None Include="Resources\Apps-preferences-desktop-cryptography-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.9.2">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition SP2 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AD_CMS_DatabaseModel\AD_CMS_DatabaseModel.csproj">
+      <Project>{FC9A7B85-2953-4E37-823F-10535E40AA6E}</Project>
+      <Name>AD_CMS_DatabaseModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AD_CMS_Entity\AD_CMS_Entity.csproj">
+      <Project>{F3367E86-BF90-4FBF-A70B-3A81C2E40F1B}</Project>
+      <Name>AD_CMS_Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Attendance\Steps\3.png" />
+    <Content Include="Attendance\Steps\4.png" />
+    <Content Include="Attendance\Steps\5.png" />
+    <Content Include="Attendance\Steps\6.png" />
+    <Content Include="Attendance\Steps\1.png" />
+    <Content Include="Attendance\Steps\2.png" />
+    <Content Include="MasterDatabase.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MasterDatabase_log.LDF">
+      <DependentUpon>MasterDatabase.mdf</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\return book.png" />
+    <None Include="Resources\category.png" />
+    <None Include="Resources\Borrow Book_96px.png" />
+    <None Include="Resources\add book.png" />
+    <None Include="Resources\financeProfile.png" />
+    <None Include="Resources\userProfile.png" />
+    <None Include="Resources\teacherProfile.png" />
+    <None Include="Resources\LibrarianProfile.png" />
+    <None Include="Resources\adminProfile.png" />
+    <None Include="Resources\lab.png" />
+    <None Include="Resources\Classroom.png" />
+    <None Include="Resources\small_logo.png" />
+    <None Include="Resources\ViewAttendance.jpg" />
+    <None Include="Resources\UploadAttendance.jpg" />
+    <None Include="Resources\rules.jpg" />
+    <None Include="Resources\generate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ADOX">
+      <Guid>{00000600-0000-0010-8000-00AA006D2EA4}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="EmployeeProfilePhotos\" />
+    <Folder Include="HomePage\SliderImages\" />
+    <Folder Include="HomePage\Sliders\" />
+    <Folder Include="HomePage\temp\" />
+    <Folder Include="StudentProfilePhotos\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,53 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AD_CMS.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MasterDatabaseConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\MasterDatabase.mdf;Integrated Security=True;User Instance=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\MasterDatabase.mdf;Integrated Security=True;User Instance=True</Value>
+    </Setting>
+    <Setting Name="CollegeName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AD_CMS Softwares</Value>
+    </Setting>
+    <Setting Name="CollegeIcon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\Resources\small_logo.png</Value>
+    </Setting>
+    <Setting Name="CollegeTagLine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Do The Best,Get The Best</Value>
+    </Setting>
+    <Setting Name="DeleteIconPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="MainFormBack" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SeaShell</Value>
+    </Setting>
+    <Setting Name="TemplateBack" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="d_MainFormBack" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SeaShell</Value>
+    </Setting>
+    <Setting Name="d_TemplateBack" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="d_TemplateHeader" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SkyBlue</Value>
+    </Setting>
+    <Setting Name="TemplateHeaderBack" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">SkyBlue</Value>
+    </Setting>
+    <Setting Name="AttendancePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\..\Attendance\</Value>
+    </Setting>
+    <Setting Name="TotalClasses" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="TotalLabs" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

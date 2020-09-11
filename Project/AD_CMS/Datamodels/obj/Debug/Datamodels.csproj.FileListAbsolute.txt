@@ -1,0 +1,8 @@
+E:\PROJECT20018\AD_CMS\Datamodels\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT20018\AD_CMS\Datamodels\obj\Debug\Datamodels.Form1.resources
+E:\PROJECT20018\AD_CMS\Datamodels\obj\Debug\Datamodels.Properties.Resources.resources
+E:\PROJECT20018\AD_CMS\Datamodels\obj\Debug\Datamodels.csproj.GenerateResource.Cache
+E:\PROJECT20018\AD_CMS\Datamodels\bin\Debug\Datamodels.exe
+E:\PROJECT20018\AD_CMS\Datamodels\bin\Debug\Datamodels.pdb
+E:\PROJECT20018\AD_CMS\Datamodels\obj\Debug\Datamodels.exe
+E:\PROJECT20018\AD_CMS\Datamodels\obj\Debug\Datamodels.pdb

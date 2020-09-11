@@ -1,0 +1,323 @@
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.exe
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.pdb
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.pdb
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.dll
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.pdb
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.MainForm.resources
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Properties.Resources.resources
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeRegisteration.resources
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.SearchEmplye.resources
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentAdmission.resources
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.TemplateForm.resources
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.GenerateResource.Cache
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.StudentFeeCollection.resources
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewStudentPaymentDetails.resources
+F:\Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.Set_ModifyEmpSalary.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe.config
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\Interop.ADOX.dll
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.ResolveComReference.cache
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.exe
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.pdb
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase.mdf
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase_log.LDF
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.pdb
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.dll
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.dll
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.dll
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.pdb
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.pdb
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.pdb
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\Interop.ADOX.dll
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.AdminSectionSubForms.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.SetUser.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.SoftwareVisualStyleChange.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\CustomMessageBox.AlertBox.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.AttendanceSubForms.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.GenerateAttendanceSheet.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.Instructions.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.UploadAttendance.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.ViewAttendance.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.CollegeDetailsSubForm.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.HomePageDesign.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.AddNewCourses.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Courses.CourseSubForm.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.UpdateCourseDetails.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.DepartmentSubForm.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.Set_ModifyDepartmentDetails.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.UpdateStudentDepartment.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.ViewDepartmentDetails.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.FinanceSubForms.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.PayEmployeeSalary.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.HomePage.Home.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LogInForm.LoginForm.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeRegistration.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.SearchEmployee.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.Set_ModifyEmpSalary.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.StudentFeeCollection.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewEmployeeSalaryDetails.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewStudentPaymentDetails.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.MainForm.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Properties.Resources.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeSubForms.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.SearchStudent.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentAdmission.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentSubForm.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.TemplateForm.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.GenerateResource.Cache
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase.mdf
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase_log.LDF
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe.config
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.pdb
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.dll
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.dll
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.dll
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.pdb
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.pdb
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.pdb
+E:\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\Interop.ADOX.dll
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\Interop.ADOX.dll
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.ResolveComReference.cache
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.AdminSectionSubForms.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.SetUser.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.SoftwareVisualStyleChange.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\CustomMessageBox.AlertBox.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.AttendanceSubForms.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.GenerateAttendanceSheet.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.Instructions.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.UploadAttendance.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.ViewAttendance.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.CollegeDetailsSubForm.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.HomePageDesign.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.AddNewCourses.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Courses.CourseSubForm.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.UpdateCourseDetails.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.DepartmentSubForm.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.Set_ModifyDepartmentDetails.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.UpdateStudentDepartment.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.ViewDepartmentDetails.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.FinanceSubForms.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.PayEmployeeSalary.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.HomePage.Home.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LogInForm.LoginForm.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeRegistration.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.SearchEmployee.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.Set_ModifyEmpSalary.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.StudentFeeCollection.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewEmployeeSalaryDetails.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewStudentPaymentDetails.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.MainForm.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Properties.Resources.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeSubForms.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.SearchStudent.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentAdmission.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentSubForm.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.TemplateForm.resources
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.GenerateResource.Cache
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.exe
+E:\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.pdb
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.AddBooks.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.BorrowBook.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.Category.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.LibraryMgmtSubForms.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.LibrarySubForms.resources
+C:\Users\DHAVAL\Desktop\New folder\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.ReturnBook.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe.config
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\Interop.ADOX.dll
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.ResolveComReference.cache
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.exe
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.pdb
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase.mdf
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase_log.LDF
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.pdb
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.dll
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.dll
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.dll
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.pdb
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.pdb
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.pdb
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\Interop.ADOX.dll
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\ResolveAssemblyReference.cache
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.AdminSectionSubForms.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.SetUser.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.SoftwareVisualStyleChange.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\CustomMessageBox.AlertBox.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.AttendanceSubForms.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.GenerateAttendanceSheet.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.Instructions.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.UploadAttendance.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.ViewAttendance.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.CollegeDetailsSubForm.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.HomePageDesign.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.AddNewCourses.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Courses.CourseSubForm.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.UpdateCourseDetails.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.DepartmentSubForm.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.Set_ModifyDepartmentDetails.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.UpdateStudentDepartment.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.ViewDepartmentDetails.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.FinanceSubForms.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.PayEmployeeSalary.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.HomePage.Home.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.AddBooks.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.BorrowBook.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.Category.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.LibraryMgmtSubForms.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.LibrarySubForms.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.ReturnBook.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LogInForm.LoginForm.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeRegistration.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.SearchEmployee.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.Set_ModifyEmpSalary.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.StudentFeeCollection.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewEmployeeSalaryDetails.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewStudentPaymentDetails.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.MainForm.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Properties.Resources.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeSubForms.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.SearchStudent.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentAdmission.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentSubForm.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.TemplateForm.resources
+F:\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.GenerateResource.Cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase.mdf
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase_log.LDF
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe.config
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\stdole.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\CustomControl.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\Interop.ADOX.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csprojAssemblyReference.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\Interop.ADOX.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.ResolveComReference.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.AdminSectionSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.SetUser.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.SoftwareVisualStyleChange.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\CustomMessageBox.AlertBox.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.AttendanceSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.GenerateAttendanceSheet.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.Instructions.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.UploadAttendance.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.ViewAttendance.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.CollegeDetailsSubForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.HomePageDesign.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.AddNewCourses.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Courses.CourseSubForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.UpdateCourseDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.DepartmentSubForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.Set_ModifyDepartmentDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.UpdateStudentDepartment.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.ViewDepartmentDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.FinanceSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.PayEmployeeSalary.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.HomePage.Home.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.AddBooks.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.BorrowBook.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.Category.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.LibraryMgmtSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.LibrarySubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.ReturnBook.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LogInForm.LoginForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeRegistration.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.SearchEmployee.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.Set_ModifyEmpSalary.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.StudentFeeCollection.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewEmployeeSalaryDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewStudentPaymentDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.MainForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Properties.Resources.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.SearchStudent.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentAdmission.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentSubForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.TemplateForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.GenerateResource.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.CoreCompileInputs.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.CopyComplete
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.exe
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe.manifest
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.application
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.exe.manifest
+D:\Projects\My Project\Project 2018\My Project\PROJECT20018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.application
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase.mdf
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\MasterDatabase_log.LDF
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe.config
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.exe.manifest
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.application
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\CustomControl.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\stdole.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_DatabaseModel.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS_Entity.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\CustomControl.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csprojAssemblyReference.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\Interop.ADOX.dll
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.ResolveComReference.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.AdminSectionSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.SetUser.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.SoftwareVisualStyleChange.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\CustomMessageBox.AlertBox.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.AttendanceSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.GenerateAttendanceSheet.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.Instructions.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.UploadAttendance.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Attendance.ViewAttendance.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.CollegeDetails.CollegeDetailsSubForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.AdminSection.HomePageDesign.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.AddNewCourses.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Courses.CourseSubForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Course.UpdateCourseDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.DepartmentSubForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.Set_ModifyDepartmentDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.UpdateStudentDepartment.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.DepartmentSubForms.ViewDepartmentDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.FinanceSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.PayEmployeeSalary.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.HomePage.Home.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.AddBooks.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.BorrowBook.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.Category.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.LibraryMgmtSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.LibrarySubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LibraryMgmtSubForms.ReturnBook.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.LogInForm.LoginForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeRegistration.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.SearchEmployee.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.Set_ModifyEmpSalary.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.StudentFeeCollection.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewEmployeeSalaryDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.FinanceDeptSubForms.ViewStudentPaymentDetails.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.MainForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.Properties.Resources.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StaffMgmtSubForms.EmployeeSubForms.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.SearchStudent.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentAdmission.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.StudentMgmtSubForms.StudentSubForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.TemplateForm.resources
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.GenerateResource.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.CoreCompileInputs.cache
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.exe.manifest
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.application
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.csproj.CopyComplete
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.exe
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\obj\Debug\AD_CMS.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\AD_CMS.pdb
+D:\Projects\My Project\Project 2018\My Project\PROJECT 2018\AD_CMS\AD_CMS\bin\Debug\Interop.ADOX.dll

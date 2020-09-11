@@ -1,0 +1,11 @@
+E:\PROJECT20018\CustomControl\CustomControl\bin\Debug\CustomControl.dll
+E:\PROJECT20018\CustomControl\CustomControl\bin\Debug\CustomControl.pdb
+E:\PROJECT20018\CustomControl\CustomControl\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJECT20018\CustomControl\CustomControl\obj\Debug\CustomControl.csproj.GenerateResource.Cache
+E:\PROJECT20018\CustomControl\CustomControl\obj\Debug\CustomControl.dll
+E:\PROJECT20018\CustomControl\CustomControl\obj\Debug\CustomControl.pdb
+E:\PROJECT20018\CustomControl\CustomControl\obj\Debug\CustomControl.UpperTextBox.resources
+E:\PROJECT20018\CustomControl\CustomControl\obj\Debug\CustomControl.emailTextBox.resources
+E:\PROJECT20018\CustomControl\CustomControl\obj\Debug\CustomControl.NumericTextBox.resources
+E:\PROJECT20018\CustomControl\CustomControl\bin\Debug\CirclePictureBox.pdb
+E:\PROJECT20018\CustomControl\CustomControl\obj\Debug\CustomControl.CustomComboBox.resources
