@@ -5,6 +5,7 @@ All The Course Details Which Contains Total Semester Of Course, Fees, Subjects, 
 It include Library Management System also. System Provide Different User Role Also Like Admin ,Cashier, Librarian,Teacher. 
 It Also Provides Facility To Change UI Of Application Like Color, Application Logo, Application Slider Etc. 
 
-||=== Technology Details ===|| 
- Language : C#.Net
- Database : MSSQL
+||=== Technology Details ===>   
+ Language : C#.Net ||  
+ Database : MSSQL ||  
+ IDE : Visual Studio
